@@ -1,0 +1,14 @@
+/* Estilos mínimos para evitar error por import faltante */
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial;
+  margin: 0;
+  padding: 0;
+}
+#root {
+  padding: 16px;
+}
+button {
+  margin: 4px;
+  padding: 8px 12px;
+}
